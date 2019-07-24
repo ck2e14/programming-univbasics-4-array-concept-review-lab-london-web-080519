@@ -27,5 +27,4 @@ def find_min_value(array)
     return array.min
   end
 end
-
 #Same here as the previous method (function in JavaScript) but to find the min value. 
